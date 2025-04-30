@@ -2,4 +2,11 @@
 
 Ejercicio Evaluado Especial
 
-Favor de leer los pasos a seguir en el archivo Instrucciones.md
+---
+### Datos
+1. Cohorte CH53
+2. fecha: 30-04-2025
+3. hora: 9:55 am
+4. Nombre: Luis Isaac Mendez Villegas
+
+---
